@@ -29,6 +29,8 @@ Player 2:
 +  Shoot: hold z
 +  Switch polarity: x
 
+Pause: RET (enter) key
+
 Controls can be configured by changing the bindings in configs.py
 
 **Enabling second player:**
