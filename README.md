@@ -2,6 +2,14 @@
 
 a python game written with pyGame and 2 player support because I can't find good vertical scrolling shooters.  
 
+You control a special spaceship that has special "polarity" power. While enemy ships can only be one polarity (white or black), your ship can switch between the two.  
+
+Your ship's shield system is also unique. If your ship is in white polarity and gets hit by a white bolt, it absorbs the energy and increases its shield power, but if it's hit by a black polarity bolt, its shields take a hit. The opposite happens when your ship is in black polarity.
+
+Enemy ships however, are not as sophisticated as yours.  If they get hit by a bolt of of the same polarity, they will take damage.  However, if they are hit by a bolt of the opposite polarity, they will take double the damage!
+
+Can you survive the onslaught? Find out by playing!
+
 **Requirements:**
 
 +  Python
